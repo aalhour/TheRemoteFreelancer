@@ -5,11 +5,6 @@ Now available in website also! [theremotefreelancer.com](https://theremotefreela
 
 See [Why](#why) and [Contributing](#contributing)
 
----
-
-Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look at [TripleByte](https://triplebyte.com/iv/cQCz3qM/cp).
-
----
 
 **English**
 
@@ -18,16 +13,17 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Upwork](https://upwork.com)                                                             | 500            |            | Designers, Developers, & Others           |
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 2,000          |            | Designers, Developers, & Others           |
-| [PeoplePerHour](https://www.peopleperhour.com)                                           | 5,000          | & Gigs     | Designers, Developers, & Others           |
+| [PeoplePerHour](https://www.peopleperhour.com)                                           | 8,000          | & Gigs     | Designers, Developers, & Others           |
 | [Toptal](https://www.toptal.com/#amass-nothing-but-top-notch-software-architects)        | 8,000          |            | Designers, Developers, & Others           |
-| [Guru.com](http://www.guru.com/)                                                         | 10,000         |            | Designers, Developers, & Others           |
+| [Guru.com](http://www.guru.com/)                                                         | 13,000         |            | Designers, Developers, & Others           |
+| [Truelancer](https://www.truelancer.com)                                                 | 29,000         |            | Designers, Developers, & Others           |
 | [CodeMentor.io](https://www.codementor.io/i/2kz84aesbl)                                  | 10,000         | & Tutoring | Developers                                |
 | [Crossover](https://www.crossover.com)                                                   | 50,000         |            | Developers & Business Mangers             |
 | [Speedlancer](https://speedlancer.com/)                                                  | 400,000        |            | Designers & Developers                    |
+| [Lorem](https://www.asklorem.com/)                                                       | 500,000        |            | Designers, Developers, & Others           |
 | [Scalable Path](https://www.scalablepath.com/)                                           | 600,000        |            | Designers & Developers                    |
 | [Soshace](https://www.soshace.com/)                                                      | 2,000,000      |            | Developers                                |
 | [Certace](https://www.certace.com)                                                       | 9,000,000      |            | Data Scientists                           |
-| [Loom](https://www.loom.co)                                                              | 10,000,000     |            | Designers & Developers                    |
 | **Other**                                                                                |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Fiverr](https://www.fiverr.com/)                                                        | 400            | Gigs       | Variety                                   |
@@ -46,6 +42,7 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 | [RemoteOK](https://remoteok.io/)                                                         | 50,000         |            | Developers                                |
 | [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote)                                | 70,000         |            | Developers                                |
 | [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html)             | 1,000,000      |            | Go/Golang jobs, filter on remote jobs     |
+| [Team Extension](https://teamextension.io/)                                | 3,400,000         |            | Eastern Euro Developers, Designers, QA      
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 20,000,000     |            | AI/Machine learning jobs, filter on remote jobs  |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
@@ -90,6 +87,11 @@ Are you looking for a job in San Francisco Bay Area or New York, NY? Take a look
 
 **Persian**
 - [Ponisha](http://ponisha.ir) - Ponisha is an online network for freelance professionals, in Iran. 
+
+**Russian**
+- [Freelansim](https://freelansim.ru/) - биржа удаленной работы для IT-специалистов. 
+- [FL](https://www.fl.ru/) - профессиональный ресурс, предназначенный для поиска работы или исполнителя на удаленную работу.
+- [freelance.ru](https://freelance.ru/) - Биржа фриланса, каталог фрилансеров и самозанятых по категориям.
 
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work.
